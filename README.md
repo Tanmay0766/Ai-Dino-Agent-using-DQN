@@ -20,19 +20,23 @@ This project showcases a Deep Q-Network (DQN) based reinforcement learning agent
 2. Create the Conda Environment:
    
    Create a new environment using the provided environment.yml file:
-   ## _conda env create -f environment.yml_
-   
-   Activate the Environment:
-   ## _conda activate your-env-name_
+   ```bash
+   conda env create -f environment.yml
+   ```
+   Activate the Environment:```
+   conda activate your-env-name```
 
-3. Install dependencies:
-   ## _pip install -r requirements.txt_
+4. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-4. Run training:
-   ## _python train.py_
+6. Run training:
+   ```bash
+   python train.py
    
-5. Test the trained agent:
-   ## _python test.py_
+8. Test the trained agent:
+   ```bash
+   python test.py
    
 ## 🧠 State Description
 The agent receives the following state vector:
