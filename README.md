@@ -36,14 +36,15 @@ The agent receives the following state vector:
 5. Cactus width
 
 ## 📂 File Structure
-1. dino_env.py           # Pygame environment logic
-2. gym_dino_env.py       # Gym wrapper
-3. agent.py              # DQN agent
-4. train.py              # Training script
-5. test1.py              # Testing script
-6. test2.py              # Test metrices and graph
-7. best_dqn_dino.pth     # Saved model (trained)
-8. README.md
+1. game.py_# Original dino game
+2. dino_env.py_# Pygame environment logic
+3. gym_dino_env.py_# Gym wrapper
+4. agent.py_# DQN agent
+5. train.py_# Training script
+6. test1.py_# Testing script
+7. test2.py_# Test metrices and graph
+8. best_dqn_dino.pth_# Saved model (trained)
+9. README.md
 
 ## 📜 License
 This project is licensed under the **MIT License.**
