@@ -16,14 +16,22 @@ This project showcases a Deep Q-Network (DQN) based reinforcement learning agent
    ```bash
    git clone https://github.com/Tanmay0766/Ai-Dino-Agent-using-DQN.git
    cd Ai-Dino-Agent-using-DQN
+   
+2. Create the Conda Environment:
+   
+   Create a new environment using the provided environment.yml file:
+   _conda env create -f environment.yml_
+   
+   Activate the Environment:
+   _conda activate your-env-name_
 
-2. Install dependencies:
+3. Install dependencies:
    _pip install -r requirements.txt_
 
-3. Run training:
+4. Run training:
    _python train.py_
    
-4. Test the trained agent:
+5. Test the trained agent:
    _python test.py_
    
 ## 🧠 State Description
