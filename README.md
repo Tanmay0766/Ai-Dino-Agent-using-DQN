@@ -2,6 +2,9 @@
 
 This project showcases a Deep Q-Network (DQN) based reinforcement learning agent trained to play the Chrome Dino game. Built using PyGame and Gym style wrapper, the agent learns to survive and jump over obstacles effectively, mimicking human play through observation-based state input.
 
+## Demo Link: 
+https://www.linkedin.com/posts/tanmay-singh-429ab81b9_ai-reinforcementlearning-python-activity-7341131692671234049-KaB8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADLi-2EBDMofotInT29A0nDfI1120hvUmCE
+
 ## 🎮 Features
 
 - **Custom Game Environment**: Recreated Chrome Dino game using PyGame
